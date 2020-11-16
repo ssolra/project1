@@ -4,7 +4,7 @@
 <br>
 #개발환경<br>
 IntelliJ<br>
-Java 11<br>
+Java 8<br>
 SpringBoot 2.3.5<br>
 maven<br>
 mysql<br>
